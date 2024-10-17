@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\obj\Debug\net6.0-windows\Form測試一.Form1.resources
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\obj\Debug\net6.0-windows\Form測試一.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\obj\Debug\net6.0-windows\Form測試一.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\obj\Debug\net6.0-windows\Form測試一.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\obj\Debug\net6.0-windows\Form測試一.AssemblyInfo.cs
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\obj\Debug\net6.0-windows\Form測試一.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\bin\Debug\net6.0-windows\Form測試一.exe
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\bin\Debug\net6.0-windows\Form測試一.deps.json
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\bin\Debug\net6.0-windows\Form測試一.runtimeconfig.json
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\bin\Debug\net6.0-windows\Form測試一.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\bin\Debug\net6.0-windows\Form測試一.pdb
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\obj\Debug\net6.0-windows\Form測試一.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\obj\Debug\net6.0-windows\refint\Form測試一.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\obj\Debug\net6.0-windows\Form測試一.pdb
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\obj\Debug\net6.0-windows\Form測試一.genruntimeconfig.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\Form測試一\Form測試一\obj\Debug\net6.0-windows\ref\Form測試一.dll
